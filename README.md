@@ -25,7 +25,7 @@
      - Fungsi Lambda
      - Project Perpustakaan 4 (Peminjaman dan Pengembalian)
        
-  2. Pandas_Numpy_Matplotlib.ipynb
+  2. _Pandas_Numpy_Matplotlib.ipynb
 
      *lesson 5:*
      - Pandas Data Series
